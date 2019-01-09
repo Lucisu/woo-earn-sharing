@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-11-08 20:31-0200\n"
+"PO-Revision-Date: 2018-11-08 20:32-0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-woo-earn-sharing-admin.php:82
+msgid "You are sure that want regenerate all user's code?"
+msgstr "Você tem certeza de que deseja gerar todos os códigos novamente?"
+
+#: admin/class-woo-earn-sharing-admin.php:101
+#: public/class-woo-earn-sharing-public.php:173
+msgid "Balance"
+msgstr "Saldo"
+
+#: admin/class-woo-earn-sharing-admin.php:101
+msgid "Your Code"
+msgstr "Seu Código"
+
+#: admin/class-woo-earn-sharing-admin.php:109
+msgid "Done!"
+msgstr "Feito!"
+
+#: admin/class-woo-earn-sharing-admin.php:116
+msgid " Setted to "
+msgstr " Definido para "
+
+#: admin/partials/woo-earn-sharing-admin-display.php:27
+msgid "Reward %"
+msgstr "Recompensa %"
+
+#: admin/partials/woo-earn-sharing-admin-display.php:32
+msgid "My Account Tab Label"
+msgstr "Minha Conta - Título"
+
+#: admin/partials/woo-earn-sharing-admin-display.php:37
+msgid "User code length"
+msgstr "Tamanho Código do Usuário"
+
+#: admin/partials/woo-earn-sharing-admin-display.php:42
+msgid "User code Alphanumeric"
+msgstr "Código do Usuário Alphanumérico"
+
+#: admin/partials/woo-earn-sharing-admin-display.php:47
+msgid ""
+"Give credit back to user, when order change to Refunded, Cancelled or Failed"
+msgstr ""
+"Dar dinheiro de volta à saldo do usuário, quando um pedido é trocado para "
+"Reembolsado, Cancelado ou Falhado"
+
+#: admin/partials/woo-earn-sharing-admin-display.php:52
+msgid "Referrals page HTML"
+msgstr "Página Referências HTML"
+
+#: admin/partials/woo-earn-sharing-admin-display.php:68
+msgid "Regenerate All Users Codes"
+msgstr "Gerar todos os códigos de usuários novamente"
+
+#: admin/partials/woo-earn-sharing-admin-display.php:77
+msgid "Like the plugin? Please, consider pay me a coffe! :)"
+msgstr "Gostou do plugin? Por favor, considere me pagar um café :)"
+
+#: public/class-woo-earn-sharing-public.php:95
+#: public/partials/woo-earn-sharing-public-display.php:22
+msgid "Referrals"
+msgstr "Referências"
+
+#: public/class-woo-earn-sharing-public.php:135
+msgid "Friend Code"
+msgstr "Código de Amigo"
+
+#: public/class-woo-earn-sharing-public.php:141
+msgid "Add here a friend code, if have one"
+msgstr "Adicione aqui um código de amigo, caso possua"
+
+#: public/class-woo-earn-sharing-public.php:142
+msgid "XXXXXXXX"
+msgstr "XXXXXXXX"
+
+#: public/class-woo-earn-sharing-public.php:153
+msgid "Invalid Friend Code."
+msgstr "Código de Amigo Inválido."
+
+#: public/class-woo-earn-sharing-public.php:156
+msgid "You cannot use your code as Friend Code."
+msgstr "Você não pode usar o próprio código como Código de Amigo."
+
+#~ msgid "my-referrals"
+#~ msgstr "minhas-referencias"

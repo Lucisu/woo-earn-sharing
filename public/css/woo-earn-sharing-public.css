@@ -1,0 +1,16 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+ .wooes-my-account-info .current-code p {
+    margin: 0px !important;
+    font-weight: 700;
+}
+.wooes-my-account-info .current-code span {
+    font-weight: 500;
+    padding: 0rem 0.25rem;
+}
+.wooes-my-account-info .current-code {
+    padding: 1rem;
+    background-color: #f8f8f8;
+}
